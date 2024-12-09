@@ -1,4 +1,3 @@
-import React from "react";
 import duplex from "../assets/duplex.jpg";
 
 const featuredCategories = [

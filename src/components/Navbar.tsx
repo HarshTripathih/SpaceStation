@@ -1,4 +1,3 @@
-import React from "react";
 import logo from "../assets/aliens-logo.png";
 import sslogo from "../assets/SPACE STATION Gold logo (2) (1).png";
 
